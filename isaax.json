@@ -6,5 +6,5 @@
   "license": "MIT License",
   "scripts": {
     "start": "python3 -u server.py"
-  },
+  }
 }
